@@ -1,5 +1,5 @@
 ﻿# Wanderlust
-🔧 Tech Stack:
+Tech Stack:
 
 🖥️ Frontend: EJS + Bootstrap
 
@@ -13,7 +13,7 @@
 
 🌍 Deployment: Fully deployed on Vercel (Frontend + Backend)
 
-✅ Key Features:
+Key Features:
 
 🏨 Hotel listing, registration, and management
 
@@ -24,6 +24,7 @@
 📜 Auth-protected routes using middleware
 
 🌐 Fully responsive design with error handling
+
 
 
 
